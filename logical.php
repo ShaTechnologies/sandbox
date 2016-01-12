@@ -9,6 +9,10 @@
         $b = 3;
         if($a > $b){
             echo "a is lager than b";
+        }elseif($a < $b){
+            echo "a is smaller than b";
+        }else{
+            echo "a is equal to b";
         }
     ?>
 
@@ -24,9 +28,9 @@
     <br>
     <?php
     $numerator = 20;
-    $denomnator = 4;
-    if($denomnator > 0){
-        $result = $numerator / $denomnator;
+    $denominator = 4;
+    if($denominator > 0){
+        $result = $numerator / $denominator;
         echo "Result: {$result}";
     }
     ?>
