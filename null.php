@@ -1,7 +1,7 @@
 <!DOCTYPE html">
 <html lang="en">
 <head>
-    <title>Title</title>
+    <title>Nulls  </title>
 </head>
 <body>
     <?php
