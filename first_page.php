@@ -6,6 +6,7 @@
 <body>
     <?php $link_name = "Second Page";?>
     <?php $id = 5;?>
-    <a href="second_page.php?id=<?php echo $id ;?>"><?php echo $link_name?></a>
+    <?php $company = "Johnson & Johnson"?>
+    <a href="second_page.php?id=<?php echo $id ;?>&company=<?php echo $company; ?>"><?php echo $link_name?></a>
 </body>
 </html>
