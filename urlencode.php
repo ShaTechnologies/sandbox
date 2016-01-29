@@ -1,7 +1,7 @@
 <!DOCTYPE html">
 <html lang="en">
 <head>
-    <title>URL Encoding</title>
+    <title>URL Encoding </title>
 </head>
 <body>
     <?php
